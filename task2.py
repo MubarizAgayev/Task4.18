@@ -22,3 +22,4 @@ with open('my_config.json', 'w', encoding="utf-8") as file:
 pprint(data)
 
 # Shirali Shams burada olub
+# Nihat Sərkərov burda olub və olacaq
